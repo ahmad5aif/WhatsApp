@@ -12,6 +12,10 @@ firebase.js
 public
 dist
 dist-ssr
+build
+.firebase
+.firebaserc
+firebase.json
 *.local
 
 # Editor directories and files
